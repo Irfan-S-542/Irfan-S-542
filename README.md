@@ -43,19 +43,7 @@ I enjoy building **web applications**, exploring **cloud technologies**, and con
 - 🧑‍🎓 **Student Management (CRUD)** → Python + SQL project with Create, Read, Update, Delete  
 - 🛒 **E-Commerce Website** → Built using HTML, CSS, JavaScript (with cart & checkout flow)  
 - 📊 **Sales Dashboard** → Excel-based dashboard to visualize sales insights  
-- 🔐 **Quantum-Resilient Cybersecurity Framework** → Flask + MySQL web app for secure medical data management  
-
----
-
-### 📜 Internship
-- 💻 **React.js Intern** at **Srishti Innovative Computer Systems** (4 weeks)  
-
----
-
-### 🏆 Achievements
-- 🥋 8th KYU Yellow Belt in Karate – SKIF India  
-- 🧠 Mind Math Stage 1 Certificate – AJ’s  
-- 🧪 Science Olympiad participation – SOF  
+- 🔐 **Quantum-Resilient Cybersecurity Framework** → Flask + MySQL web app for secure medical data management   
 
 ---
 
